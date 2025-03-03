@@ -43,7 +43,7 @@ This project is deployed using **Vercel**. Follow these steps to deploy your own
 
 ## 📬 Contact Me
 
-📧 Email: vaishnu0371@gmail.com  
+📧 Email: [vaishnu0371@gmail.com]
 💼 LinkedIn: [vaishnaviKundapur](https://www.linkedin.com/in/vaishnavi-kundapur-b54742214)  
 📸 Instagram: [@_vaishnu._____](https://www.instagram.com/_vaishnu._____/)  
  
