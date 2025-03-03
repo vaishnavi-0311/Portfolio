@@ -23,7 +23,7 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 - HTML5
 - CSS3
 - JavaScript
-- [Vercel](https://vercel.com/myportfolio-chi-lime.vercel.app/) for hosting
+- [Vercel](https://myportfolio-chi-lime.vercel.app/) for hosting
 
 ## 🚀 Deployment
 This project is deployed using **Vercel**. Follow these steps to deploy your own version:
